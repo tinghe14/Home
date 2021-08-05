@@ -1,12 +1,12 @@
 ---
-title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength"
+title: "Comorbidity Characterization Among eMERGE Institutions: A Pilot Evaluation with the Johns Hopkins Adjusted Clinical Groups® System"
 collection: publications
-permalink: /publication/2021-peace-agreement-strength
-date: 2021-01-27
-venue: 'Political Science Research and Methods'
-paperurl: '/files/pdf/research/Agreement Strength Accepted.pdf'
-link: 'https://doi.org/10.1017/psrm.2019.23'
-code: 'https://doi.org/10.7910/DVN/VUY8UI'
-github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'
-citation: 'Williams, Rob, Daniel J. Gustafson, Stephen E. Gent, and Mark J.C. Crescenzi. 2021. &quot;A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength.&quot; <i>Political Science Research and Methods</i> 9(1): 89-105. doi:10.1017/psrm.2019.23'
+permalink: /publication/2019-ACG
+date: 2019-05-16
+venue: 'Public Health'
+paperurl: '/files/pdf/research/2019_ACG.pdf'
+link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6568092/'
+<!--code: 'https://doi.org/10.7910/DVN/VUY8UI'
+github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'--!>
+citation: 'Taylor, C. O., Lemke, K. W., Richards, T. M., Roe, K. D., He, T., Arruda-Olson, A., Carrell, D., Denny, J. C., Hripcsak, G., Kiryluk, K., Kullo, I., Larson, E. B., Peissig, P., Walton, N. A., Wei-Qi, W., Ye, Z., Chute, C. G., & Weiner, J. P. (2019). Comorbidity Characterization Among eMERGE Institutions: A Pilot Evaluation with the Johns Hopkins Adjusted Clinical Groups® System. AMIA Joint Summits on Translational Science proceedings. <i>AMIA Joint Summits on Translational Science</i>, 2019, 145–152.'
 ---
