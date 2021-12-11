@@ -11,9 +11,11 @@ main:
 
   - title: "Journal"
     url: /posts/
-
+    
+  - title: "Bucket List"
+    url: /life/
+    
   - title: "CV"
     url: /cv/
 
-  - title: "Bucket List"
-    url: /life/
+
