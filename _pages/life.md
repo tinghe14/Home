@@ -7,38 +7,69 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-Things I want to do before 
-I am too old.Let me know if you have any recommendation or want to try it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket list.
+Things I want to do before I am too old. Let me know if you have any recommendations or want to try it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket list.
 
-1. Raise a Medium-size Dog
-2. Raise a Large-size Dog with My Babies Together
+1. :white_check_mark:Raise a Medium-size Dog](https://drive.google.com/file/d/1WOHpdUroQbQQ170994F_uBnkkeE4DuF-/view?usp=sharing)
+2. Raise a Large-size Dog and Grow up with My Human Babies Together
 3. Run a half marathon
 4. Dye for Bright Color Hair - Princess Pink
 5. Dye for Bright Color Hair - Cool Blue
 6. Try Balayage Hair Style
 7. Observe Galaxies and Got Great Photos
 8. Weekly Volunteer at Zoo or Nursing Home for at Least Month
-9. Record a Family Moment using Hasselblad
+9. Record Family Moment using Hasselblad
 10. When Move to a New City, Try at Least One local Photographer
-11. Get Published inT Towards Data Science on Medium
+11. Get Published in Towards Data Science on Medium
 12. Visit Thailand Again
 13. Dine at a Michelin star restaurant
 14. Visit Japan during March for Sakura Blossom
-15. Try Japaneses Izakaya, Hot Spring and Nihon Teien during Winter
-16. Vist Japan during Summer for Firework Festival
-17. Go Vegan Weekly for At Least A Year
+15. Try Japanese Izakaya, Hot Spring, and Nihon Teien during Winter
+16. Visit Japan during Summer for Firework Festival
+17. Go Vegan Once A Week for at Least A Year
 18. Study Aboard
-19. Fall in Love
+19. Fall in Love and Maintain Healthy Relationships
 20. Visit Hawaii and Try Local Fruits Everyday
 21. Join a Broadcast as A guest 
 22. Get a Computer Sciences Degree (Less important) and Enjoy the Projects (more important)
-23. Get a PhD Degree and Do Something be Proud of
-24. Try a Local Markup Studio - Black-Owned Studio
-25. Try a Local Markup Studio - White-Owned Studio
+23. Get a Ph.D. Degree and Do Something Being Proud of
+24. Try a Local Markup Studio - Black Artist
+25. Try a Local Markup Studio - White Artist
 26. Try a Local Markup Studio - Vietnam or Thailand Artist
-27. Get 3 Different Portrait from Street Artist
+27. Get 3 Different Portraits from Street Artist
 28. Bake during Sunday Morning
 29. Visit Europe
+30. Try  Local Jazz Pub
+31. Experience Turbo Drop once 
+32. Group Travel with Best Friends
+33. Work at Silicon Valley
+34. Experience New York Life
+35. Visit Nepal or Tibet
+36. Attend Lights Festival
+37. Try EDC (Such as Tomorrowland in Belgium)
+38. Scuba Diving 
+39. Enjoy Exercise and Keep Fit
+40. Visit Golden Bridge and Drive at No.1 Highway
+41. Have Two Babies (If lucky, Big Brother with Little Sister is My Dream Combination)
+42. Attend a Concert of Classical Music
+43. Get a Tesla
+44. Own One Bag Per Luxury Brand
+45. See the Sunrise at Eastern Coast of the US
+46. Check the Sunset at Western Coast of the US
+47. Attend El Día de los Muertos at Mexico 
+48. Attend Halloween Parade at New York
+49. Attend Time Square Ball Drop Event at New York
+50. Visit Banff National Park and Visit My Mentor at Alberta, Canada
+51. Have Fun in Taiwan
+52. Have a Home Graden 
+53. Sleepover and Watch Honor Movie with Bunch of Friends
+54. Try Different Sports Every Year
+55. Log Cabin Forest Getaway
+56. Enjoy a Night at a Comfortable RV
+57. Enjoy a Night at Sailboat
+58. Spend Some Days at Farm
+59. Jogging Everyday
+60. Enjoy July 4th Firework at DC
+61. Be Able to Ski at Green Line
 
 <nbsp>
 
