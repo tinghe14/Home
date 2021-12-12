@@ -9,11 +9,11 @@ header:
 
 Things I want to do before I am too old. Let me know if you have any recommendations or want to try it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket list.
 
-1. :white_check_mark: [Raise a Medium-size Dog](https://drive.google.com/file/d/1WOHpdUroQbQQ170994F_uBnkkeE4DuF-/view?usp=sharing)
+1. ✅ [Raise a Medium-size Dog](https://drive.google.com/file/d/1WOHpdUroQbQQ170994F_uBnkkeE4DuF-/view?usp=sharing)
 2. Raise a Large-size Dog and Grow up with My Human Babies Together
 3. Run a half marathon
 4. Dye for Bright Color Hair - Princess Pink
-5. :white_check_mark: [Dye for Bright Color Hair - Cool Blue]()
+5. ✅ [Dye for Bright Color Hair - Cool Blue]()
 6. Try Balayage Hair Style
 7. Observe Galaxies and Got Great Photos
 8. Weekly Volunteer at Zoo or Nursing Home for at Least Month
@@ -26,10 +26,10 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 15. Try Japanese Izakaya, Hot Spring, and Nihon Teien during Winter
 16. Visit Japan during Summer for Firework Festival
 17. Go Vegan Once A Week for at Least A Year
-18. :white_check_mark: Study Aboard
-19. :white_check_mark: Fall in Love and Maintain Healthy Relationships
+18. ✅ Study Aboard
+19. ✅ Fall in Love and Maintain Healthy Relationships
 20. Visit Hawaii and Try Local Fruits Everyday
-21. :white_check_mark: Join a Broadcast as A guest 
+21. ✅ Join a Broadcast as A guest 
 22. Get a Computer Sciences Degree (Less important) and Enjoy the Projects (more important)
 23. Get a Ph.D. Degree and Do Something Being Proud of
 24. Try a Local Markup Studio - Black Artist
@@ -39,10 +39,10 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 28. Bake during Sunday Morning
 29. Visit Europe
 30. Try  Local Jazz Pub
-31. :white_check_mark: Experience Turbo Drop once 
-32. :white_check_mark: Group Travel with Best Friends
+31. ✅ Experience Turbo Drop once 
+32. ✅ Group Travel with Best Friends
 33. Work at Silicon Valley
-34. :white_check_mark: Experience New York Life
+34. ✅ Experience New York Life
 35. Visit Nepal or Tibet
 36. Attend Lights Festival
 37. Try EDC (Such as Tomorrowland in Belgium)
@@ -63,8 +63,8 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 52. Have a Home Graden 
 53. Sleepover and Watch Honor Movie with Bunch of Friends
 54. Try Different Sports Every Year
-55. :white_check_mark: Log Cabin Forest Getaway
-56. :white_check_mark: Enjoy a Night at a Comfortable RV
+55. ✅ Log Cabin Forest Getaway
+56. ✅ Enjoy a Night at a Comfortable RV
 57. Enjoy a Night at Sailboat
 58. Spend Some Days at Farm
 59. Jogging Everyday
