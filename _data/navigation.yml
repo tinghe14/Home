@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Project"
-    url: /research/
+  #- title: "Project"
+    #url: /research/
     
-  - title: "Study Note"
-    url: /posts/
+  #- title: "Study Note"
+    #url: /posts/
 
   - title: "Publication"
     url: /publications/
 
-  - title: "Journal"
-    url: /posts/
+  #- title: "Journal"
+    #url: /posts/
     
   - title: "Bucket List"
     url: /life/
