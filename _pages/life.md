@@ -26,7 +26,7 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 15. Try Japanese Izakaya, Hot Spring, and Nihon Teien during Winter
 16. Visit Japan during Summer for Firework Festival
 17. Go Vegan Once A Week for at Least A Year
-18. ✅ Study Aboard
+18. ✅ [Study Aboard](https://drive.google.com/file/d/1aBeR12yLRDPZ7XHCefo4pgAD4ubnvyoy/view?usp=sharing)
 19. Fall in Love and Maintain Healthy Relationships
 20. Visit Hawaii and Try Local Fruits Everyday
 21. Join a Broadcast as A guest 
@@ -38,11 +38,11 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 27. Get 3 Different Portraits from Street Artist
 28. Bake When wake up at Sunday Morning
 29. Visit Europe
-30. Try  Local Jazz Pub
+30. ✅ [Try  Local Jazz Pub](https://drive.google.com/file/d/1cC3_3cMuzZCTocpUJS4z0howTh5i-54k/view?usp=sharing)
 31. ✅ Experience Turbo Drop once 
-32. ✅ Group Travel with Best Friends
+32. ✅ [Group Travel with Best Friends](https://drive.google.com/file/d/1l5-kc6SFlEgHqitGlxf80ok_WKDHITFQ/view?usp=sharing)
 33. Work at Silicon Valley
-34. ✅ Experience New York Life
+34. ✅ [Experience New York Life](https://drive.google.com/file/d/1vsmxkOzkmwf8UDXcHq9D6LbhZqvzE3P0/view?usp=sharing)
 35. Visit Nepal or Tibet
 36. Attend Lights Festival
 37. Try EDC (Such as Tomorrowland in Belgium)
@@ -53,23 +53,27 @@ Things I want to do before I am too old. Let me know if you have any recommendat
 42. Attend a Concert of Classical Music
 43. Get a Tesla
 44. Own One Bag Per Luxury Brand
-45. ✅ See the Sunrise at Eastern Coast of the US (https://drive.google.com/file/d/1SI1DK9TwXzLcFaHi23eDpdtWgZke_azD/view?usp=sharing)
+45. ✅ [See the Sunrise at Eastern Coast of the US] (https://drive.google.com/file/d/1SI1DK9TwXzLcFaHi23eDpdtWgZke_azD/view?usp=sharing)
 46. Check the Sunset at Western Coast of the US
 47. Attend El Día de los Muertos at Mexico 
-48. ✅ Attend Halloween Parade at New York(https://drive.google.com/file/d/11ZBQfJXNHB1FIhw737f3oSXlXOzxzkyF/view?usp=sharing)
+48. ✅ [Attend Halloween Parade at New York](https://drive.google.com/file/d/11ZBQfJXNHB1FIhw737f3oSXlXOzxzkyF/view?usp=sharing)
 49. Attend Time Square Ball Drop Event at New York
 50. Visit Banff National Park and Visit My Mentor at Alberta, Canada
 51. Have Fun in Taiwan
-52. ✅ Have a Home Graden(https://drive.google.com/file/d/1dldtf_5UOZ7O066KcvL1gR_KedUpW43e/view?usp=sharing) 
+52. ✅ [Have a Home Graden](https://drive.google.com/file/d/1dldtf_5UOZ7O066KcvL1gR_KedUpW43e/view?usp=sharing) 
 53. Sleepover and Watch Honor Movie with Bunch of Friends
 54. Try Different Sports Every Year
-55. ✅ Log Cabin Forest Getaway
-56. ✅ Enjoy a Night at a Comfortable RV(https://drive.google.com/file/d/1u3wD9tIcmARL8g0RTAvLB4rXHT0UEirf/view?usp=sharing)
+55. ✅ [Log Cabin Forest Getaway](https://drive.google.com/file/d/1nybNrvJOkp5yi2JS_y1-uAU9b4dQpSsJ/view?usp=sharing)
+56. ✅ [Enjoy a Night at a Comfortable RV](https://drive.google.com/file/d/1u3wD9tIcmARL8g0RTAvLB4rXHT0UEirf/view?usp=sharing)
 57. Enjoy a Night at Sailboat
 58. Spend Some Days at Farm
 59. Jogging Everyday
 60. Enjoy July 4th Firework at DC
-61. ✅ Be Able to Ski at Green Line(https://drive.google.com/file/d/1ek0RYJ8ONctuN6f3ka90WS5d8A7vnNoL/view?usp=sharing)
+61. ✅ [Be Able to Ski at Green Line](https://drive.google.com/file/d/1ek0RYJ8ONctuN6f3ka90WS5d8A7vnNoL/view?usp=sharing)
+62. Find my 3 objectives for PhD thesis
+63. Be able to enjoy own life
+64. Enjoy Water Park at Summer
+65. Learn to be persistent 
 
 <nbsp>
 
