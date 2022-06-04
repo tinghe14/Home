@@ -7,7 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-Things I want to do before I am too old. Let me know if you have any recommendations or want to try it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket list.
+Things I want to do before I am too old. Let me know if you have any recommendations or want to 
+it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket list.
 
 1. ✅ [Raise a Medium-size Dog](https://drive.google.com/file/d/15dVCROMNh7xRlooGsmxJ_JF4DGwrfMcU/view?usp=sharing)
 2. Raise a Large-size Dog and Grow up with My Human Babies Together
