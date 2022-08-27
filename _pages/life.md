@@ -16,7 +16,7 @@ it together. Also, Thanks to Sejal Dua for inspiring me to write this bucket lis
 4. Dye for Bright Color Hair - Princess Pink
 5. ✅ [Dye for Bright Color Hair - Cool Blue](https://drive.google.com/file/d/1wgUR36UG_Bi3rJCcvexH9GULRH-cuN0d/view?usp=sharing)
 6. Try Balayage Hair Style
-7. Observe Galaxies and Get Great Photos
+7. ✅ [Observe Galaxies and Get Great Photos](https://drive.google.com/file/d/1RFYKSoWKPznnfXJjxm1us8QLm3h44kOu/view?usp=sharing)
 8. Weekly Volunteer at Zoo or Nursing Home for at Least Month
 9. Record Family Moment using Hasselblad
 10. When Move to a New City, Try at Least One local Photographer
