@@ -3,19 +3,19 @@ main:
   #- title: "Project"
     #url: /research/
     
-  #- title: "Study Note"
-    #url: /posts/
+  - title: "Post"
+    url: /posts/
 
-  - title: "Publication"
-    url: /publications/
+#  - title: "Publication"
+#    url: /publications/
 
   #- title: "Journal"
     #url: /posts/
     
-  - title: "Bucket List"
-    url: /life/
+#  - title: "Bucket List"
+#    url: /life/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
 

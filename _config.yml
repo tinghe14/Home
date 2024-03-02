@@ -112,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TingHe7"
+  twitter          : #"TingHe7"
   vine             :
   weibo            :
   xing             :
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+   _posts
   - scope:
       path: ""
       type: posts
